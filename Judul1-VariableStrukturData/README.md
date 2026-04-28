@@ -80,7 +80,7 @@ Pemanggilan Pasien (Dequeue): Saat dokter memanggil pasien, sistem secara otomat
 
 Kondisi Antrean Terbaru: Setelah Andi keluar dari daftar, posisi "paling depan" kini berpindah ke Budi. Jika dokter memanggil lagi, maka Budi-lah yang akan masuk selanjutnya, sementara Cici tetap menunggu di urutan belakang.
 
-
+https://youtu.be/vIKVmloxOl4?si=qH60n2occm84cotd
 
 
 
