@@ -14,7 +14,7 @@ Dalam program ini, setiap pasien direpresentasikan sebagai sebuah **Node**. Peng
 
 class Pasien: ( Mendeklarasikan kelas bernama Pasien yang berfungsi sebagai Node dalam Linked List).
 
-def __init__(self, nama): (Metode inisialisasi yang otomatis berjalan saat objek pasien baru dibuat).
+def_init_(self, nama): (Metode inisialisasi yang otomatis berjalan saat objek pasien baru dibuat).
 
 self.nama = nama: (Atribut untuk menyimpan data berupa nama pasien).
 
