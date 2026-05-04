@@ -8,9 +8,10 @@ Program ini dibuat menggunakan struktur data Insertion Sort yang cara kerjanya m
 
 **Source Kode**
 
-<img width="514" height="412" alt="kode 1" src="https://github.com/user-attachments/assets/aefe73d1-bf2b-4efc-ab4a-4f5d2f3c0c02" />
+<img width="510" height="415" alt="kode 1" src="https://github.com/user-attachments/assets/1f6baf8f-3dfc-43ae-a4cd-4be1fb88f21f" />
 
-<img width="340" height="131" alt="kode 2" src="https://github.com/user-attachments/assets/59e14c25-da16-44d0-94f3-63752da6b6f8" />
+<img width="351" height="126" alt="kode 2" src="https://github.com/user-attachments/assets/7d4576e8-9979-4142-b962-8cbfe4f5f5af" />
+
 def insertion_sort(arr, n):
 Mendefinisikan fungsi pengurutan yang menerima dua parameter: arr (list angka) dan n (jumlah elemen).
 
@@ -61,7 +62,17 @@ for i in range(n): print(arr[i], end=" ")
 Mencetak setiap elemen list yang kini sudah terurut secara mendatar.  
 
 if __name__ == "__main__": main()
-Memastikan bahwa fungsi main() hanya akan dijalankan jika file ini dieksekusi secara langsung sebagai program utama,
+Memastikan bahwa fungsi main() hanya akan dijalankan jika file ini dieksekusi secara langsung sebagai program utama.
+
+**Output**
+
+<img width="369" height="120" alt="output 1" src="https://github.com/user-attachments/assets/26b151a9-7ee7-4782-8e9b-72c78f37862f" />
+
+Pengguna memasukkan angka 5, sehingga program akan meminta 5 data angka jersey. Kemudian, Pengguna memasukkan angka secara manual satu per satu: 08, 11, 19, 23, dan 01. Saat di tampilkan, Program menampilkan list asli sesuai urutan input pengguna, yaitu [8, 11, 19, 23, 1].
+
+Algoritma bekerja dengan mengambil angka (seperti 1) dan menyisipkannya ke posisi yang benar dengan membandingkannya dengan angka di sebelah kiri.  
+Hasil Akhir: Program mencetak hasil akhir yang sudah terurut dari angka terkecil ke terbesar: 1 8 11 19 23
+
 
 
 
