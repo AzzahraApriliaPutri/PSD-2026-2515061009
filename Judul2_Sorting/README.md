@@ -73,6 +73,8 @@ Pengguna memasukkan angka 5, sehingga program akan meminta 5 data angka jersey. 
 Algoritma bekerja dengan mengambil angka (seperti 1) dan menyisipkannya ke posisi yang benar dengan membandingkannya dengan angka di sebelah kiri.  
 Hasil Akhir: Program mencetak hasil akhir yang sudah terurut dari angka terkecil ke terbesar: 1 8 11 19 23
 
+https://youtu.be/mKhkZwVSYvE
+
 
 
 
