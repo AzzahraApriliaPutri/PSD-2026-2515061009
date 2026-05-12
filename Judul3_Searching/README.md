@@ -88,4 +88,5 @@ Logika: Nilai ditemukan karena Rp37.000 sama dengan target.
 
 Hasil Akhir : Program melaporkan bahwa harga ditemukan pada urutan ke-4.
 
+<img width="2612" height="3660" alt="CamScanner 12-05-26 21 02_1" src="https://github.com/user-attachments/assets/e7579f0a-4f55-4ca7-86bc-f0a274849da6" />
 
