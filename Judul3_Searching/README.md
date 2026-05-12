@@ -57,7 +57,7 @@ Logika Krusial: Karena Binary Search wajib menggunakan data terurut, baris ini m
 harga_produk.append(harga)
 Memasukkan harga yang sudah valid ke dalam daftar katalog.
 
-target = int(input(...))
+target = int(input("\nMasukkan harga yang ingin dicari: Rp"))
 Menanyakan harga barang yang ingin dicari oleh pembeli/pengguna.
 
 hasil = cari_harga_barang(harga_produk, n, target)
