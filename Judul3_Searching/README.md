@@ -45,7 +45,7 @@ Mengirimkan hasil akhir (indeks atau -1) kembali ke pemanggil fungsi.
 try...except ValueError
 Digunakan untuk menangkap error jika pengguna memasukkan huruf, padahal program meminta angka. Ini mencegah program crash.
 
-n = int(input(...))
+n = int(input("Masukkan jumlah produk dalam katalog: "))
 Mengambil data berapa banyak barang yang akan dimasukkan ke katalog.
 
 for i in range(n):
@@ -63,7 +63,7 @@ Menanyakan harga barang yang ingin dicari oleh pembeli/pengguna.
 hasil = cari_harga_barang(harga_produk, n, target)
 Memanggil fungsi utama tadi dan mengirimkan data katalog untuk diproses.
 
-print(f"...urutan ke-{hasil + 1}")
+print(f"\nSelesai: Harga Rp{target} ditemukan pada katalog urutan ke-{hasil + 1}.")
 Menampilkan lokasi barang. Kita menggunakan + 1 karena manusia menghitung mulai dari 1, sedangkan komputer mulai dari 0.
 
 
@@ -86,8 +86,6 @@ Program fokus ke sisi kanan dan mengecek indeks 3, yaitu Rp37.000.
 
 Logika: Nilai ditemukan karena Rp37.000 sama dengan target.
 
-3. Hasil Akhir
-Program melaporkan bahwa harga ditemukan pada urutan ke-4.
-
+Hasil Akhir : Program melaporkan bahwa harga ditemukan pada urutan ke-4.
 
 
