@@ -119,4 +119,6 @@ Baris 98–99: if __name__ == "__main__": main() $\rightarrow$ Struktur standar 
 
 <img width="594" height="171" alt="output 3" src="https://github.com/user-attachments/assets/49cbca31-111a-445b-8d48-4771ed2f9c10" />
 
-
+Output diatas adalah bentuk antrean di bank, dimana user akan memilih menu 1 untuk menginputkan nasabah yang akan masuk di bank. Didalam program user memasukkan 3 orang kedalam antrean yang memiliki nomer antrean [B-1, B-2, B-3].
+Kemudian teller memanggil antrean pertama (B-1) dan orang tersebut menuju ke teller untuk dilayani, saat kondisi ini antrean no B-1 sudah keluar dari daftar ruang tunggu atau daftar antrean dan tersisa antrean B-2 dan B-3.
+Selanjutnya user bisa mengecek sisa orang yang masih di dalam antrean untuk dipanggil giliran berikutnya. Maka dilayar akan kelihatan antrean B-2 siap-siap giliran berikutnya untuk dilayani
