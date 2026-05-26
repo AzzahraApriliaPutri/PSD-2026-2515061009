@@ -355,3 +355,5 @@ Pengguna mengetik angka 5 untuk melakukan pencarian otomatis. Saat diminta memas
 Pengguna mengetik angka 6 untuk mencoba fitur pencarian kebalikan. Saat diminta memasukkan ID prioritas, pengguna mengetik angka 5. Komputer langsung menampilkan nama tugas yang posisinya lebih penting atau berada di atas angka tersebut.
 
 Keluar dari Aplikasi Terakhir, setelah selesai mencoba semua fitur, pengguna mengetik angka 7 pada terminal. Langkah ini menghentikan perulangan menu dan menutup aplikasi secara keseluruhan.
+
+https://youtu.be/upjsxqBDLKA?si=bFkvTj7cWw-Q4WBx
