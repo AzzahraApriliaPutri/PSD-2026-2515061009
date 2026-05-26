@@ -341,3 +341,17 @@ Sistem dasar Python untuk otomatis memicu dan menjalankan fungsi main() saat fil
 
 <img width="355" height="191" alt="output7" src="https://github.com/user-attachments/assets/e60c932d-174a-4f67-a14d-7a8e3c8fe9bf" />
 
+
+pengguna mengetik angka 1. Saat program meminta input, pengguna memasukkan angka 2 untuk ID prioritas, mengetik "Matematika Diskrit" sebagai nama tugas, dan "Tugas Grap" untuk deskripsinya.
+
+pengguna mengetik angka 2 untuk memilih menu penyelesaian/penghapusan tugas. Saat program meminta ID, pengguna mengetik angka 2 (tugas yang baru saja dimasukkan tadi pun langsung terhapus).
+
+pengguna mengetik angka 3 pada pilihan menu. Program langsung menampilkan tabel berisi sisa tugas yang masih aktif dan menyusunnya rapi berurutan berdasarkan nomor ID-nya.
+
+Pengguna kemudian mengetik angka 4 untuk melihat bagaimana komputer menyusun tugas-tugas tersebut di latar belakang. Terminal pun menampilkan tinggi pohon dan urutan data secara mendatar.
+
+Pengguna mengetik angka 5 untuk melakukan pencarian otomatis. Saat diminta memasukkan batas ID prioritas, pengguna mengetik angka 3. Komputer lalu memunculkan nama tugas berikutnya yang memiliki prioritas di bawah angka tersebut.
+
+Pengguna mengetik angka 6 untuk mencoba fitur pencarian kebalikan. Saat diminta memasukkan ID prioritas, pengguna mengetik angka 5. Komputer langsung menampilkan nama tugas yang posisinya lebih penting atau berada di atas angka tersebut.
+
+Keluar dari Aplikasi Terakhir, setelah selesai mencoba semua fitur, pengguna mengetik angka 7 pada terminal. Langkah ini menghentikan perulangan menu dan menutup aplikasi secara keseluruhan.
