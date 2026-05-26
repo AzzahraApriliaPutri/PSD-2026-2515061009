@@ -25,6 +25,7 @@ Struktur data utama yang digunakan dalam program ini adalah Binary Search Tree (
 <img width="313" height="87" alt="kode 9" src="https://github.com/user-attachments/assets/b93d2fa9-0bae-43d1-853d-efe7cf786579" />
 
 **Output**
+
 <img width="444" height="235" alt="output1" src="https://github.com/user-attachments/assets/991977fa-58a6-4a6e-9a23-948e024781e5" />
 
 <img width="461" height="199" alt="output2" src="https://github.com/user-attachments/assets/3ca5b37d-69f7-486e-b7e6-7c8118474b9b" />
