@@ -8,7 +8,7 @@ Struktur data ini menggunakan fungsi hash modulo untuk menentukan posisi indeks 
 
 Source Kode
 
-<img width="684" height="582" alt="kode 1" src="https://github.com/user-attachments/assets/e0f855eb-aa89-4b1b-af6d-8e6c728f6c43" />
+<img width="684" height="557" alt="603924826-e0f855eb-aa89-4b1b-af6d-8e6c728f6c43" src="https://github.com/user-attachments/assets/1ed1e198-b010-4f40-a7e0-5dab400a7695" />
 
 <img width="722" height="518" alt="kode 2" src="https://github.com/user-attachments/assets/9a424a0f-3d45-4c00-ba0b-c791eafc422d" />
 
