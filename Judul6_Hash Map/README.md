@@ -277,3 +277,10 @@ Baris 106 Struktur kendali standard Python untuk memastikan fungsi main() hanya 
 main()
 Baris 107 Memanggil dan menjalankan fungsi main().
 
+
+**Output**
+
+<img width="800" height="453" alt="output 1" src="https://github.com/user-attachments/assets/72fbe42a-f774-4ff5-969b-71fb563ea51e" />
+
+
+
