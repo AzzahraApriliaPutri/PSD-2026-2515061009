@@ -280,7 +280,8 @@ Baris 107 Memanggil dan menjalankan fungsi main().
 
 **Output**
 
-<img width="800" height="453" alt="output 1" src="https://github.com/user-attachments/assets/72fbe42a-f774-4ff5-969b-71fb563ea51e" />
+<img width="800" height="373" alt="604071344-72fbe42a-f774-4ff5-969b-71fb563ea51e" src="https://github.com/user-attachments/assets/82ebac5f-4ec6-414b-bcf8-b9b2754c5173" />
+
 
 Program ini mengimplementasikan struktur data Hash Map dengan metode Open Addressing dan Linear Probing untuk mengelola data kendaraan berdasarkan angka plat nomor mereka. Proses kerja seluruh sistem ini mengalir melalui tiga tahapan utama, yaitu inisialisasi tabel, penyimpanan data, dan pencarian data.
 
