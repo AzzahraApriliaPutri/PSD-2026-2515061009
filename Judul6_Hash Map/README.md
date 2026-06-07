@@ -282,5 +282,11 @@ Baris 107 Memanggil dan menjalankan fungsi main().
 
 <img width="800" height="453" alt="output 1" src="https://github.com/user-attachments/assets/72fbe42a-f774-4ff5-969b-71fb563ea51e" />
 
+Program ini mengimplementasikan struktur data Hash Map dengan metode Open Addressing dan Linear Probing untuk mengelola data kendaraan berdasarkan angka plat nomor mereka. Proses kerja seluruh sistem ini mengalir melalui tiga tahapan utama, yaitu inisialisasi tabel, penyimpanan data, dan pencarian data.
 
+Tahap pertama adalah pembuatan struktur tabel penyimpanan. Saat program utama dijalankan, sebuah objek bernama data motor dibuat dengan kapasitas maksimal 10 slot ruang kosong. Setiap slot di dalam tabel ini memiliki objek penampung tersendiri yang sejak awal diberi status EMPTY atau benar-benar kosong karena belum pernah diisi data apa pun.
+
+Tahap kedua adalah proses memasukkan data kendaraan ke dalam tabel menggunakan fungsi hash. Ketika data kendaraan seperti angka kunci 18 dimasukkan, sistem tidak menaruhnya secara acak, melainkan menghitung posisi indeksnya menggunakan rumus modulo dengan ukuran tabel, yaitu 18 modulo 10 yang menghasilkan indeks 8. Karena slot indeks 8 masih kosong, data langsung disimpan di sana dan status slotnya berubah menjadi OCCUPIED atau terisi. Proses serupa terjadi pada angka kunci 15 yang menempati indeks 5, angka kunci 33 yang menempati indeks 3, dan angka kunci 49 yang menempati indeks 9. Jika seandainya terjadi bentrokan atau dua kunci menghasilkan indeks yang sama, fungsi Linear Probing akan otomatis bergerak maju satu demi satu slot ke depan untuk mencari tempat terdekat yang masih kosong atau berstatus DELETED.
+
+Program mencetak seluruh kondisi slot dari indeks 0 hingga 9 ke layar terminal, di mana slot nomor 3, 5, 8, dan 9 sukses menampilkan detail kendaraan, sementara slot lainnya tetap tertulis EMPTY. Setelah itu, fungsi pencarian diuji untuk menemukan kembali data kendaraan dari angka kunci 18, 33, dan 49. Sistem langsung melompat menuju indeks hasil perhitungan rumus hash masing-masing kunci tersebut. Karena status slot di indeks target tersebut terisi dan angka kuncinya cocok, program berhasil menemukan dan menampilkan informasi lengkap kendaraan secara instan tanpa perlu membuang waktu memeriksa isi tabel satu per satu dari awal.
 
