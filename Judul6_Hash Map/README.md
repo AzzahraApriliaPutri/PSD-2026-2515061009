@@ -204,7 +204,6 @@ print("\n[Mencari Plat Motor dengan angka (49)]")
 # Baris 103: Memanggil fungsi cek_plat untuk memproses dan mencetak hasil pencarian key angka 49.
 data_motor.cek_plat(49)
 
-
 # Baris 106: Struktur kendali standard Python untuk memastikan fungsi main() hanya berjalan jika file ini dieksekusi secara langsung.
 if __name__ == "__main__":
 # Baris 107: Memanggil dan menjalankan fungsi main().
