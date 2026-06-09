@@ -291,3 +291,4 @@ Tahap kedua adalah proses memasukkan data kendaraan ke dalam tabel menggunakan f
 
 Program mencetak seluruh kondisi slot dari indeks 0 hingga 9 ke layar terminal, di mana slot nomor 3, 5, 8, dan 9 sukses menampilkan detail kendaraan, sementara slot lainnya tetap tertulis EMPTY. Setelah itu, fungsi pencarian diuji untuk menemukan kembali data kendaraan dari angka kunci 18, 33, dan 49. Sistem langsung melompat menuju indeks hasil perhitungan rumus hash masing-masing kunci tersebut. Karena status slot di indeks target tersebut terisi dan angka kuncinya cocok, program berhasil menemukan dan menampilkan informasi lengkap kendaraan secara instan tanpa perlu membuang waktu memeriksa isi tabel satu per satu dari awal.
 
+https://youtu.be/kEf7tW8pYKg?si=ZBTwFGoSCunP8YYF
